@@ -1,0 +1,25 @@
+h1 {
+  color: #D1495B;
+}
+
+.container {
+  margin:  0 auto;
+  width: 800px;
+  padding: 16px;
+  background-color: lightgray;
+}
+
+.letters {
+  display: flex;
+}
+
+.letter {
+  height: 16px;
+  width: 16px;
+  margin: 4px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #30638E;
+  text-align: center;
+  color: white;
+}
